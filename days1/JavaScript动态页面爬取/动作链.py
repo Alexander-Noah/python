@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
-browser = webdriver.Chrome()
+browser = webdriver.Edge()
 url = 'http://www.runoob.com/try/try.php?filename=jqueryui-api-droppable'
 browser.get(url)
 browser.switch_to.frame('iframeResult')
