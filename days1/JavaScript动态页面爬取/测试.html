@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表单示例 - 带图片预览</title>
+    <link rel="stylesheet" href="1.css">
+</head>
+<body>
+    <form id="myForm">
+        <!-- 单选框组 -->
+        <div class="form-group">
+            <div class="form-title">编程语言</div>
+            <div class="radio-group">
+                <label class="radio-option">
+                    <input type="radio" name="language" value="Java"> Java
+                </label>
+                <label>
+                    <input type="radio" name="language" value="python">python
+                </label>
+                <label class="radio-option">
+                    <input type="radio" name="language" value="C++" checked> C++
+                </label>
+            </div>
+        </div>
+
+        <!-- 多选框组 -->
+        <div class="form-group">
+            <div class="form-title">多选框</div>
+            <div class="checkbox-group">
+                <label class="checkbox-option">
+                    <input type="checkbox" name="devices" value="phone"> 手机
+                </label>
+                <label class="checkbox-option">
+                    <input type="checkbox" name="devices" value="computer"> 电脑
+                </label>
+                <label class="checkbox-option">
+                    <input type="checkbox" name="devices" value="web"> 网页
+                </label>
+            </div>
+        </div>
+
+        <!-- 下拉选择 -->
+        <div class="form-group">
+            <div class="form-title">下拉</div>
+            <select name="city">
+                <option value="beijing" selected>北京</option>
+                <option value="shanghai">上海</option>
+                <option value="guangzhou">广州</option>
+                <option value="shenzhen">深圳</option>
+            </select>
+        </div>
+
+        <!-- 日期选择 -->
+        <div class="form-group">
+            <div class="form-title">日期</div>
+            <input type="date" name="date" value="2025-12-12">
+        </div>
+
+        <!-- 星级评价 -->
+        <div class="form-group">
+            <div class="form-title">评价</div>
+            <div class="rating">
+                <div class="rating-item">
+                    <div>服务态度</div>
+                    <div class="stars">
+                        <span class="star selected">★</span>
+                        <span class="star selected">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                    </div>
+                </div>
+                <div class="rating-item">
+                    <div>发货速度</div>
+                    <div class="stars">
+                        <span class="star selected">★</span>
+                        <span class="star selected">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 文件上传 -->
+        <div class="form-group">
+            <div class="form-title">图片上传</div>
+            <div class="upload-area">
+                <label class="upload-label" for="fileInput">+</label>
+                <img id="imagePreview" class="upload-preview" alt="图片预览">
+                <input type="file" id="fileInput" class="upload-input" accept="image/*">
+            </div>
+        </div>
+
+        <!-- 免责声明 -->
+        <div class="disclaimer">
+            免责声明:演示地址已失效，仅供技术<br>
+            其法律责任！
+        </div>
+
+        <!-- 提交按钮 -->
+        <button type="submit" class="submit-btn"><a href="提交链接.html">提交</a> </button>
+    </form>
+
+    <script>
+        // 星级评价交互
+        document.querySelectorAll('.star').forEach(star => {
+            star.addEventListener('click', function() {
+                const stars = this.parentElement.children;
+                const clickedIndex = Array.from(stars).indexOf(this);
+
+                for (let i = 0; i < stars.length; i++) {
+                    if (i <= clickedIndex) {
+                        stars[i].classList.add('selected');
+                    } else {
+                        stars[i].classList.remove('selected');
+                    }
+                }
+            });
+        });
+
+        // 图片上传预览功能
+        const fileInput = document.getElementById('fileInput');
+        const imagePreview = document.getElementById('imagePreview');
+
+        fileInput.addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+
+                reader.onload = function(event) {
+                    imagePreview.style.display = 'block';
+                    imagePreview.src = event.target.result;
+                    document.querySelector('.upload-label').style.display = 'none';
+                };
+
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // 表单提交处理
+        document.getElementById('myForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('表单提交成功！');
+            // 这里可以添加实际的表单提交逻辑
+        });
+    </script>
+</body>
+</html>
