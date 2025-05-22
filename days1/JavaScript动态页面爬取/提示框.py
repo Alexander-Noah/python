@@ -11,10 +11,10 @@ def she():
     browser1.implicitly_wait(10)
     return browser1
 a1=she()
-a1.get('https://sahitest.com/demo/confirmTest.htm')
-a2=a1.find_element(By.XPATH,'/html/body/form/input[1]').click()
+a1.get('https://sahitest.com/demo/promptTest.htm')
+a2=a1.find_element(By.XPATH,'/html/body/h2')
+print(a2.text)
+a1.find_element(By.XPATH, '/html/body/form/input[1]').click()
 time.sleep(2)
-#点击确定按钮
-# a1.switch_to.alert.accept()
-#点击取消按钮
-a1.switch_to.alert.dismiss()
+a1.switch_to.alert.send_keys('执笔')
+a1.switch_to.alert.accept()
