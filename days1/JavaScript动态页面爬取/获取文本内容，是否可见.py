@@ -11,17 +11,12 @@ def she():
     browser1.implicitly_wait(10)
     return browser1
 a1=she()
-a1.get("https://sahitest.com/demo/iframesTest.htm")
-#获取iframe元素
-a2=a1.find_element(By.XPATH,'/html/body/iframe')
-#进入iframe嵌套页面
-a1.switch_to.frame(a2)
-#进入iframe页面操作元素点击
-time.sleep(3)
-a1.find_element(By.XPATH,'/html/body/table/tbody/tr/td[1]/a[1]').click()
-time.sleep(3)
-a2=a1.find_element(By.XPATH,'/html/body/iframe')
-a1.switch_to.frame(a2)
-time.sleep(3)
-a1.implicitly_wait(10)
-a1.find_element(By.XPATH,'/html/body/a[2]/b').click()
+a1.get('https://www.news.cn/world/20250522/2080df2308ab432fba95679a5c01c482/c.html')
+time.sleep(2)
+#获取文本
+a2=a1.find_element(By.XPATH,'/html/body/div[11]/div/div[1]/span').text
+print(a2)
+time.sleep(2)
+#内容是否可见
+a2=a1.find_element(By.XPATH,'/html/body/div[11]/div/div[1]/span').is_displayed()
+print(a2)

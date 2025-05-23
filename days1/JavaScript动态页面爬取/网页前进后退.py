@@ -11,17 +11,10 @@ def she():
     browser1.implicitly_wait(10)
     return browser1
 a1=she()
-a1.get("https://sahitest.com/demo/iframesTest.htm")
-#获取iframe元素
-a2=a1.find_element(By.XPATH,'/html/body/iframe')
-#进入iframe嵌套页面
-a1.switch_to.frame(a2)
-#进入iframe页面操作元素点击
+a1.get('https://www.baidu.com/')
+a1.find_element(By.ID,'kw').send_keys('黄景乐')
 time.sleep(3)
-a1.find_element(By.XPATH,'/html/body/table/tbody/tr/td[1]/a[1]').click()
+a1.find_element(By.ID,'su').click()
+a1.back()
 time.sleep(3)
-a2=a1.find_element(By.XPATH,'/html/body/iframe')
-a1.switch_to.frame(a2)
-time.sleep(3)
-a1.implicitly_wait(10)
-a1.find_element(By.XPATH,'/html/body/a[2]/b').click()
+a1.forward()
