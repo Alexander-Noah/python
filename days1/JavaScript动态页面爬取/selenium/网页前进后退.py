@@ -12,7 +12,7 @@ def she():
     return browser1
 a1=she()
 a1.get('https://www.baidu.com/')
-a1.find_element(By.ID,'kw').send_keys('黄景乐')
+a1.find_element(By.ID,'kw').send_keys('郑浩涛')
 time.sleep(3)
 a1.find_element(By.ID,'su').click()
 a1.back()
