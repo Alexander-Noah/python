@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1886d631-c408-4bca-a226-9ab9e83bfe72" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/Demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/Demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/Demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/iframe嵌套页面进入，退出.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/iframe嵌套页面进入，退出.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/元素定位.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/元素定位.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/动作链.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/动作链.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/多个节点爬取数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/多个节点爬取数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/弹窗确定与取消按钮.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/弹窗确定与取消按钮.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/提交链接.html" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/提交链接.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/提示框.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/提示框.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/测试.html" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/测试.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/测试.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/浏览器打开位置与尺寸.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/浏览器打开位置与尺寸.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/浏览器设置.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/浏览器设置.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/网页前进后退.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/网页前进后退.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/获取文本内容，是否可见.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/获取文本内容，是否可见.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/获取节点信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/获取节点信息.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/警告框alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/警告框alert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/运行javaScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/运行javaScript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/隐性等待.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/selenium/隐性等待.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +26,7 @@
         <option value="Jupyter Notebook" />
         <option value="CSS File" />
         <option value="Python Unit Test" />
+        <option value="OpenAPI" />
         <option value="HTML File" />
         <option value="Python Script" />
       </list>
@@ -73,7 +54,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alexander-Noah/python.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:Alexander-Noah/python.git&quot;,
     &quot;accountId&quot;: &quot;cd2c2164-ed9c-4272-84be-95c127a1f63f&quot;
   }
 }</component>
@@ -97,7 +78,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript 调试.index.html.executor": "Run",
     "JavaScript 调试.测试.html.executor": "Run",
+    "OpenAPI/Swagger 代码生成器.1.yaml.executor": "Run",
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
     "Python.3.executor": "Run",
@@ -132,15 +115,19 @@
     "Python.jd_comment_playwright.executor": "Run",
     "Python.jd_comment_spider.executor": "Run",
     "Python.json存储实例.executor": "Run",
+    "Python.json结果获取.executor": "Run",
     "Python.kuaidaili.executor": "Run",
     "Python.moviescsv文件存储Demo.executor": "Run",
     "Python.mysqlsinaDeno.executor": "Run",
+    "Python.playwright基本使用.executor": "Run",
     "Python.post请求.executor": "Run",
     "Python.producer (1).executor": "Run",
     "Python.requests实例.executor": "Run",
     "Python.request类.executor": "Run",
     "Python.rlopen用法.executor": "Run",
     "Python.roboits文件分析.executor": "Run",
+    "Python.script (1).executor": "Run",
+    "Python.script.executor": "Run",
     "Python.sina.executor": "Run",
     "Python.sqa1.executor": "Run",
     "Python.ssr3http认证.executor": "Run",
@@ -163,6 +150,7 @@
     "Python.动作链.executor": "Run",
     "Python.参数传递.executor": "Run",
     "Python.发送请求.executor": "Run",
+    "Python.响应结果更改.executor": "Run",
     "Python.基础语法.executor": "Run",
     "Python.多个节点爬取数据.executor": "Run",
     "Python.实例.executor": "Run",
@@ -170,6 +158,7 @@
     "Python.小说.executor": "Run",
     "Python.异常.executor": "Run",
     "Python.异常处理.executor": "Run",
+    "Python.异步模式.executor": "Run",
     "Python.弹窗确定与取消按钮.executor": "Run",
     "Python.提示框.executor": "Run",
     "Python.数据结构.executor": "Run",
@@ -186,13 +175,21 @@
     "Python.登入.executor": "Run",
     "Python.百度图片.executor": "Run",
     "Python.百度爬取.executor": "Run",
+    "Python.监听信息.executor": "Run",
+    "Python.移动端.executor": "Run",
+    "Python.网络劫持.executor": "Run",
     "Python.网页前进后退.executor": "Run",
     "Python.节点交互.executor": "Run",
+    "Python.获取单个节点.executor": "Run",
+    "Python.获取多个节点.executor": "Run",
     "Python.获取文本内容，是否可见.executor": "Run",
+    "Python.获取源码.executor": "Run",
     "Python.获取节点信息.executor": "Run",
+    "Python.获取节点属性.executor": "Run",
     "Python.蚝油.executor": "Run",
     "Python.警告框a'lert.executor": "Run",
     "Python.警告框alert (1).executor": "Run",
+    "Python.评论 (1).executor": "Run",
     "Python.评论.executor": "Run",
     "Python.请求Req类.executor": "Run",
     "Python.请求异常 (1).executor": "Run",
@@ -214,14 +211,14 @@
     "database.data.extractors.current.id": "SQL-Insert-Multirow.sql.groovy",
     "git-widget-placeholder": "master",
     "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "E:/java/python",
+    "last_opened_file_path": "C:/Users/zheng/Desktop/get-tweets-master",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.scopes",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -235,13 +232,17 @@
       <recent name="E:\java\python\days1\Demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\python\days1\JavaScript动态页面爬取\京东" />
       <recent name="E:\java\python\days1\JavaScript动态页面爬取\selenium" />
       <recent name="E:\java\python\days1\练习" />
       <recent name="E:\java\python\days1\文件\json" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.评论">
-    <configuration name="蚝油" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript 调试.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/python/playwright-report/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="获取多个节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东/蚝油.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/获取多个节点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="评论" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="实例2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,12 +274,81 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/文件/rabbitmq" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\java\python\days1\JavaScript动态页面爬取\京东\评论.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/文件/rabbitmq/实例2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="创建数据库" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/文件/mysql存储" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/文件/mysql存储/创建数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="新浪热搜榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/新浪热搜榜.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/豆瓣.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="豆瓣排行榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="动作链" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,12 +389,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/豆瓣排行榜.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/动作链.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,6 +418,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Ajax/发送请求.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="响应结果更改" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/响应结果更改.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,6 +518,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="节点交互" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/节点交互.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="获取节点信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -471,29 +587,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="新浪热搜榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/新浪热搜榜.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="元素定位" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -509,6 +602,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/元素定位.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="浏览器打开位置与尺寸" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/浏览器打开位置与尺寸.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,6 +725,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="获取单个节点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/获取单个节点.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="获取节点信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/获取节点信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="获取节点信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -701,53 +863,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="豆瓣排行榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/豆瓣排行榜.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/豆瓣.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="浏览器打开位置与尺寸" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="提示框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -761,7 +877,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/浏览器打开位置与尺寸.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/提示框.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -785,6 +901,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/文件/mysql存储/创建数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣排行榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/豆瓣排行榜.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -839,6 +978,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="监听信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/监听信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="获取节点信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -854,6 +1016,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/获取节点信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络劫持" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/网络劫持.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -885,7 +1070,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="节点交互" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="豆瓣排行榜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -894,35 +1079,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/节点交互.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="获取节点信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/获取节点信息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/Demo/豆瓣排行榜.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1023,158 +1185,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="创建数据库" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/文件/mysql存储" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/文件/mysql存储/创建数据库.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="提示框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/提示框.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="动作链" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/动作链.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jd_comment_playwright" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东/jd_comment_playwright.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jd_comment_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东/jd_comment_spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.jd_comment_playwright" />
-      <item itemvalue="Python.jd_comment_spider" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.蚝油" />
-      <item itemvalue="Python.评论" />
+      <item itemvalue="JavaScript 调试.index.html" />
+      <item itemvalue="Python.获取多个节点" />
+      <item itemvalue="Python.实例2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.评论" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.jd_comment_playwright" />
-        <item itemvalue="Python.jd_comment_spider" />
-        <item itemvalue="Python.蚝油" />
+        <item itemvalue="JavaScript 调试.index.html" />
+        <item itemvalue="Python.实例2" />
+        <item itemvalue="Python.获取多个节点" />
       </list>
     </recent_temporary>
   </component>
@@ -1278,7 +1298,12 @@
       <workItem from="1747894349865" duration="14000" />
       <workItem from="1747902285605" duration="4000" />
       <workItem from="1747904462532" duration="310000" />
-      <workItem from="1747958742552" duration="20109000" />
+      <workItem from="1747958742552" duration="21135000" />
+      <workItem from="1748054833780" duration="10636000" />
+      <workItem from="1748072040100" duration="11721000" />
+      <workItem from="1748141054256" duration="97000" />
+      <workItem from="1748143306157" duration="2471000" />
+      <workItem from="1748152696999" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -1352,7 +1377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747963974316</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1748053711274</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748053711274</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -1404,7 +1437,8 @@
     <SUITE FILE_PATH="coverage/python$alert__1_.coverage" NAME="警告框alert (1) 覆盖结果" MODIFIED="1747616537748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
     <SUITE FILE_PATH="coverage/python$Demo02.coverage" NAME="Demo02 覆盖结果" MODIFIED="1743079372081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days2" />
     <SUITE FILE_PATH="coverage/python$Demo3.coverage" NAME="Demo3 覆盖结果" MODIFIED="1745655542971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
-    <SUITE FILE_PATH="coverage/python$json.coverage" NAME="输出json 覆盖结果" MODIFIED="1744276264205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件/json" />
+    <SUITE FILE_PATH="coverage/python$json.coverage" NAME="json结果获取 覆盖结果" MODIFIED="1748071824377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+    <SUITE FILE_PATH="coverage/python$script__1_.coverage" NAME="script (1) 覆盖结果" MODIFIED="1748061504689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
     <SUITE FILE_PATH="coverage/python$sina.coverage" NAME="sina 覆盖结果" MODIFIED="1744362961978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件" />
     <SUITE FILE_PATH="coverage/python$htmlgrad.coverage" NAME="htmlgrad 覆盖结果" MODIFIED="1742981962928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days2" />
     <SUITE FILE_PATH="coverage/python$Scrape.coverage" NAME="Scrape 覆盖结果" MODIFIED="1745406486216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/练习" />
@@ -1418,18 +1452,19 @@
     <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 覆盖结果" MODIFIED="1742894873926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Demo" />
     <SUITE FILE_PATH="coverage/python$SPA2.coverage" NAME="SPA2 覆盖结果" MODIFIED="1745413021106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Ajax" />
     <SUITE FILE_PATH="coverage/python$http.coverage" NAME="http证书验证 覆盖结果" MODIFIED="1745237342504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/练习" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="评论 覆盖结果" MODIFIED="1748053295742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="响应结果更改 覆盖结果" MODIFIED="1748080860736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
     <SUITE FILE_PATH="coverage/python$sqa1.coverage" NAME="sqa1 覆盖结果" MODIFIED="1745411658504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Ajax" />
     <SUITE FILE_PATH="coverage/python$ssr3http.coverage" NAME="ssr3http认证 覆盖结果" MODIFIED="1745132496290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days3" />
     <SUITE FILE_PATH="coverage/python$a_lert.coverage" NAME="警告框a'lert 覆盖结果" MODIFIED="1747615984206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
-    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1748001519007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
-    <SUITE FILE_PATH="coverage/python$__1_.coverage" NAME="请求异常 (1) Coverage Results" MODIFIED="1743156840083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days3" />
-    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="实例2 覆盖结果" MODIFIED="1744857416226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件/rabbitmq" />
+    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1748055336802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
+    <SUITE FILE_PATH="coverage/python$__1_.coverage" NAME="评论 (1) 覆盖结果" MODIFIED="1748053926111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
+    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="实例2 覆盖结果" MODIFIED="1748082237406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件/rabbitmq" />
     <SUITE FILE_PATH="coverage/python$Req.coverage" NAME="请求Req类 覆盖结果" MODIFIED="1744188862287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Demo" />
     <SUITE FILE_PATH="coverage/python$Demo4.coverage" NAME="Demo4 Coverage Results" MODIFIED="1743400935780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days3" />
     <SUITE FILE_PATH="coverage/python$text.coverage" NAME="text存储 覆盖结果" MODIFIED="1744461577947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件" />
     <SUITE FILE_PATH="coverage/python$Demo7.coverage" NAME="Demo7 覆盖结果" MODIFIED="1743035934622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days2" />
     <SUITE FILE_PATH="coverage/python$urlopenDemo.coverage" NAME="urlopenDemo 覆盖结果" MODIFIED="1742879210385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/pip-23.2.1.dist-info" />
+    <SUITE FILE_PATH="coverage/python$playwright.coverage" NAME="playwright基本使用 覆盖结果" MODIFIED="1748056186771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/playwright" />
     <SUITE FILE_PATH="coverage/python$Demo1__1_.coverage" NAME="Demo1 (1) 覆盖结果" MODIFIED="1745236724315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1" />
     <SUITE FILE_PATH="coverage/python$Demo6.coverage" NAME="Demo6 覆盖结果" MODIFIED="1742985007587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days2" />
     <SUITE FILE_PATH="coverage/python$cwp.coverage" NAME="cwp 覆盖结果" MODIFIED="1742893831935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Demo" />
@@ -1440,6 +1475,7 @@
     <SUITE FILE_PATH="coverage/python$consumer.coverage" NAME="consumer 覆盖结果" MODIFIED="1744546995097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/文件/rabbitmq" />
     <SUITE FILE_PATH="coverage/python$Demo1.coverage" NAME="Demo1 覆盖结果" MODIFIED="1745653310582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取" />
     <SUITE FILE_PATH="coverage/python$status.coverage" NAME="status属性可以得到响应结果的状态码 覆盖结果" MODIFIED="1742983855941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/Demo" />
+    <SUITE FILE_PATH="coverage/python$script.coverage" NAME="script 覆盖结果" MODIFIED="1748061221287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$post.coverage" NAME="post请求 覆盖结果" MODIFIED="1744462809838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/days3" />
     <SUITE FILE_PATH="coverage/python$jd_comment_spider.coverage" NAME="jd_comment_spider 覆盖结果" MODIFIED="1747992559286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
     <SUITE FILE_PATH="coverage/python$jd_comment_playwright.coverage" NAME="jd_comment_playwright 覆盖结果" MODIFIED="1747993659774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/days1/JavaScript动态页面爬取/京东" />
